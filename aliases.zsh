@@ -1,0 +1,7 @@
+alias ls="ls --color"
+alias la="ls -a"
+alias ll="ls -l"
+alias lla="ls -la"
+alias yay="apt-get install"
+alias yeet="apt-get remove"
+alias dc="docker compose"
